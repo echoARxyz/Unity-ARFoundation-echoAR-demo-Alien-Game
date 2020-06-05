@@ -23,4 +23,4 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 ## Screenshots
 <img src="/media/console.png">
 <img src="/media/still.png">
-![](/media/live_demo.gif)
+![video](/media/live_demo.gif)
